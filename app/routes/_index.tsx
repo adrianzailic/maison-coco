@@ -21,11 +21,7 @@ export default function Index() {
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
       <div className="flex flex-wrap">
         <div className="w-1/2 p-4">
-          <img
-            src={Sofas}
-            alt="Sofas"
-            className="w-full h-auto rounded-md"
-          />
+          <img src={Sofas} alt="Sofas" className="w-full h-auto rounded-md" />
         </div>
         <div className="w-1/2 p-4">
           <img
@@ -35,18 +31,10 @@ export default function Index() {
           />
         </div>
         <div className="w-1/2 p-4">
-          <img
-            src={Dining}
-            alt="Dining"
-            className="w-full h-auto rounded-md"
-          />
+          <img src={Dining} alt="Dining" className="w-full h-auto rounded-md" />
         </div>
         <div className="w-1/2 p-4">
-          <img
-            src={Chairs}
-            alt="Chairs"
-            className="w-full h-auto rounded-md"
-          />
+          <img src={Chairs} alt="Chairs" className="w-full h-auto rounded-md" />
         </div>
         <div className="w-1/2 p-4">
           <img
@@ -56,11 +44,7 @@ export default function Index() {
           />
         </div>
         <div className="w-1/2 p-4">
-          <img
-            src={Office}
-            alt="Office"
-            className="w-full h-auto rounded-md"
-          />
+          <img src={Office} alt="Office" className="w-full h-auto rounded-md" />
         </div>
         <div className="w-1/2 p-4">
           <img
